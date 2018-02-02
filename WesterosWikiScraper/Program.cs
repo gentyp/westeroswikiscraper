@@ -10,7 +10,7 @@ namespace SampleScraperClient
     {
         static void Main(string[] args)
         {
-            Scraper.ScrapMultipleUri(FileManager.StoreUriListFromXml("C:\\Users\\Pierre\\Documents\\WesterosWikiScraper\\WesterosWikiScraper\\sitemap.xml"));
+            Scraper.ScrapMultipleUri(FileManager.StoreUriListFromXml("C:\\Users\\Pierre\\Source\\Repos\\westeroswikiscraper\\WesterosWikiScraper\\sitemap.xml"));
         }
     }
 }
