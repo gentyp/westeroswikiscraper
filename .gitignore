@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WesterosWikiScraper/v15/Server/sqlite3
+/WesterosWikiScraper/.vs/WesterosWikiScraper/v15/Server/sqlite3
+/WesterosWikiScraper/database.csv

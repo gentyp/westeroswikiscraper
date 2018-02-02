@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Main_Page</loc>
+  <lastmod>2018-02-01T20:26:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wall</loc>
+  <lastmod>2018-02-01T20:26:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Westeros</loc>
+  <lastmod>2018-02-01T20:26:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Seven_Kingdoms</loc>
+  <lastmod>2018-02-01T20:26:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Beyond_the_Wall</loc>
+  <lastmod>2018-02-01T20:26:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bran_the_Builder</loc>
+  <lastmod>2018-02-01T20:26:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/King_in_the_North</loc>
+  <lastmod>2018-02-01T20:26:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Winterfell</loc>
+  <lastmod>2018-02-01T20:26:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Storm%27s_End</loc>
+  <lastmod>2018-02-01T20:26:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Giants</loc>
+  <lastmod>2018-02-01T20:26:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Night%27s_Watch</loc>
+  <lastmod>2018-02-01T20:26:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Long_Night</loc>
+  <lastmod>2018-02-01T20:26:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Haunted_forest</loc>
+  <lastmod>2018-02-01T20:26:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Shadow_Tower</loc>
+  <lastmod>2018-02-01T20:26:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Castle_Black</loc>
+  <lastmod>2018-02-01T20:26:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Eastwatch-by-the-Sea</loc>
+  <lastmod>2018-02-01T20:26:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Template:Featured_article</loc>
+  <lastmod>2018-02-01T20:26:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Loras_Tyrell</loc>
+  <lastmod>2018-02-01T20:26:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Tyrion_Lannister</loc>
+  <lastmod>2018-02-01T20:26:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Sansa_Stark</loc>
+  <lastmod>2018-02-01T20:26:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Tywin_Lannister</loc>
+  <lastmod>2018-02-01T20:26:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Feature_quote</loc>
+  <lastmod>2018-02-01T20:26:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Stannis_Baratheon</loc>
+  <lastmod>2018-02-01T20:26:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Cersei_Lannister</loc>
+  <lastmod>2018-02-01T20:26:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lord_of_Dragonstone</loc>
+  <lastmod>2018-02-01T20:26:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dragonstone</loc>
+  <lastmod>2018-02-01T20:26:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lord_of_Storm%27s_End</loc>
+  <lastmod>2018-02-01T20:26:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Robert_I_Baratheon</loc>
+  <lastmod>2018-02-01T20:26:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Renly_Baratheon</loc>
+  <lastmod>2018-02-01T20:26:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Luthor_Tyrell</loc>
+  <lastmod>2018-02-01T20:26:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Olenna_Redwyne</loc>
+  <lastmod>2018-02-01T20:26:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Mace_Tyrell</loc>
+  <lastmod>2018-02-01T20:26:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Did_you_know</loc>
+  <lastmod>2018-02-01T20:26:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords</loc>
+  <lastmod>2018-02-01T20:26:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_68</loc>
+  <lastmod>2018-02-01T20:26:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons</loc>
+  <lastmod>2018-02-01T20:26:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_1</loc>
+  <lastmod>2018-02-01T20:26:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_77</loc>
+  <lastmod>2018-02-01T20:26:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/So_Spake_Martin</loc>
+  <lastmod>2018-02-01T20:26:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/The_World_of_Ice_%26_Fire</loc>
+  <lastmod>2018-02-01T20:27:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Portal:Books</loc>
+  <lastmod>2018-02-01T20:27:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Chapters</loc>
+  <lastmod>2018-02-01T20:27:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Portal:Characters</loc>
+  <lastmod>2018-02-01T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Houses_of_Westeros</loc>
+  <lastmod>2018-02-01T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Timeline_of_major_events</loc>
+  <lastmod>2018-02-01T20:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Portal:Geography</loc>
+  <lastmod>2018-02-01T20:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Portal:Culture</loc>
+  <lastmod>2018-02-01T20:27:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Portal:TV_Show</loc>
+  <lastmod>2018-02-01T20:27:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/George_R._R._Martin</loc>
+  <lastmod>2018-02-01T20:27:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Song_of_Ice_and_Fire</loc>
+  <lastmod>2018-02-01T20:27:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Game_of_Thrones</loc>
+  <lastmod>2018-02-01T20:27:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Help:Registration</loc>
+  <lastmod>2018-02-01T20:27:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Wiki_of_Ice_and_Fire:Community_Portal</loc>
+  <lastmod>2018-02-01T20:27:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Portal:Images</loc>
+  <lastmod>2018-02-01T20:27:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Main</loc>
+  <lastmod>2018-02-01T20:27:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Talk:Main_Page</loc>
+  <lastmod>2018-02-01T20:27:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Sandor_Frey</loc>
+  <lastmod>2018-02-01T20:27:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/User:Ran</loc>
+  <lastmod>2018-02-01T20:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/User:Felipe_Bini</loc>
+  <lastmod>2018-02-01T20:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/User:Rhaenys_Targaryen</loc>
+  <lastmod>2018-02-01T20:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Wiki_of_Ice_and_Fire:Privacy_policy</loc>
+  <lastmod>2018-02-01T20:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Wiki_of_Ice_and_Fire:About</loc>
+  <lastmod>2018-02-01T20:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/North</loc>
+  <lastmod>2018-02-01T20:27:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Greyguard</loc>
+  <lastmod>2018-02-01T20:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wonders_Made_by_Man</loc>
+  <lastmod>2018-02-01T20:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lomas_Longstrider</loc>
+  <lastmod>2018-02-01T20:27:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Frostfangs</loc>
+  <lastmod>2018-02-01T20:27:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bay_of_Seals</loc>
+  <lastmod>2018-02-01T20:27:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Images_of_the_Wall</loc>
+  <lastmod>2018-02-01T20:27:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Magic</loc>
+  <lastmod>2018-02-01T20:27:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Othell_Yarwyck</loc>
+  <lastmod>2018-02-01T20:27:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/First_Builder</loc>
+  <lastmod>2018-02-01T20:27:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Old_Nan</loc>
+  <lastmod>2018-02-01T20:27:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Kingsroad</loc>
+  <lastmod>2018-02-01T20:27:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Westwatch-by-the-Bridge</loc>
+  <lastmod>2018-02-01T20:27:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Denys_Mallister</loc>
+  <lastmod>2018-02-01T20:27:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Sentinel_Stand</loc>
+  <lastmod>2018-02-01T20:27:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Stonedoor</loc>
+  <lastmod>2018-02-01T20:27:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Hoarfrost_Hill</loc>
+  <lastmod>2018-02-01T20:27:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Icemark</loc>
+  <lastmod>2018-02-01T20:27:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Nightfort</loc>
+  <lastmod>2018-02-01T20:27:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Deep_Lake</loc>
+  <lastmod>2018-02-01T20:27:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Queensgate</loc>
+  <lastmod>2018-02-01T20:27:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lord_Commander_of_the_Night%27s_Watch</loc>
+  <lastmod>2018-02-01T20:27:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Oakenshield_(Wall)</loc>
+  <lastmod>2018-02-01T20:27:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Woodswatch-by-the-Pool</loc>
+  <lastmod>2018-02-01T20:27:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Sable_Hall</loc>
+  <lastmod>2018-02-01T20:27:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Rimegate</loc>
+  <lastmod>2018-02-01T20:27:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Long_Barrow</loc>
+  <lastmod>2018-02-01T20:27:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Torches</loc>
+  <lastmod>2018-02-01T20:27:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Greenguard</loc>
+  <lastmod>2018-02-01T20:27:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Cotter_Pyke</loc>
+  <lastmod>2018-02-01T20:27:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wildlings</loc>
+  <lastmod>2018-02-01T20:27:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Gorge</loc>
+  <lastmod>2018-02-01T20:27:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/First_Men</loc>
+  <lastmod>2018-02-01T20:27:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Others</loc>
+  <lastmod>2018-02-01T20:27:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Children_of_the_forest</loc>
+  <lastmod>2018-02-01T20:27:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Horn_of_Joramun</loc>
+  <lastmod>2018-02-01T20:27:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/First_Ranger</loc>
+  <lastmod>2018-02-01T20:27:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Benjen_Stark</loc>
+  <lastmod>2018-02-01T20:27:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Hightower</loc>
+  <lastmod>2018-02-01T20:27:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Oldtown</loc>
+  <lastmod>2018-02-01T20:27:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Jon_Snow</loc>
+  <lastmod>2018-02-01T20:27:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wildling</loc>
+  <lastmod>2018-02-01T20:27:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Jarl</loc>
+  <lastmod>2018-02-01T20:27:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Mance_Rayder</loc>
+  <lastmod>2018-02-01T20:27:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Battle_of_Castle_Black</loc>
+  <lastmod>2018-02-01T20:27:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Soren_Shieldbreaker</loc>
+  <lastmod>2018-02-01T20:27:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Borroq</loc>
+  <lastmod>2018-02-01T20:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bedwyck</loc>
+  <lastmod>2018-02-01T20:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Halleck</loc>
+  <lastmod>2018-02-01T20:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Morna_White_Mask</loc>
+  <lastmod>2018-02-01T20:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Tormund_Giantsbane</loc>
+  <lastmod>2018-02-01T20:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Spearwife</loc>
+  <lastmod>2018-02-01T20:27:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Emmett</loc>
+  <lastmod>2018-02-01T20:27:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Eddison_Tollett</loc>
+  <lastmod>2018-02-01T20:27:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Devyn_Sealskinner</loc>
+  <lastmod>2018-02-01T20:27:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Themes_in_A_Song_of_Ice_and_Fire</loc>
+  <lastmod>2018-02-01T20:27:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lance_(tower)</loc>
+  <lastmod>2018-02-01T20:27:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Knight</loc>
+  <lastmod>2018-02-01T20:27:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Qhorin_Halfhand</loc>
+  <lastmod>2018-02-01T20:27:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/The_Last_of_the_Giants</loc>
+  <lastmod>2018-02-01T20:27:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ygritte</loc>
+  <lastmod>2018-02-01T20:27:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Jeor_Mormont</loc>
+  <lastmod>2018-02-01T20:27:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Samwell_Tarly</loc>
+  <lastmod>2018-02-01T20:27:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Eddard_Stark</loc>
+  <lastmod>2018-02-01T20:27:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones</loc>
+  <lastmod>2018-02-01T20:27:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_21</loc>
+  <lastmod>2018-02-01T20:27:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Clash_of_Kings</loc>
+  <lastmod>2018-02-01T20:27:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_43</loc>
+  <lastmod>2018-02-01T20:27:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_48</loc>
+  <lastmod>2018-02-01T20:27:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_30</loc>
+  <lastmod>2018-02-01T20:27:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_26</loc>
+  <lastmod>2018-02-01T20:27:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_19</loc>
+  <lastmod>2018-02-01T20:27:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_41</loc>
+  <lastmod>2018-02-01T20:27:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_41</loc>
+  <lastmod>2018-02-01T20:27:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_40</loc>
+  <lastmod>2018-02-01T20:27:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_26</loc>
+  <lastmod>2018-02-01T20:27:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_64</loc>
+  <lastmod>2018-02-01T20:27:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_54</loc>
+  <lastmod>2018-02-01T20:27:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_17</loc>
+  <lastmod>2018-02-01T20:27:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_53</loc>
+  <lastmod>2018-02-01T20:27:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_56</loc>
+  <lastmod>2018-02-01T20:27:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Feast_for_Crows</loc>
+  <lastmod>2018-02-01T20:27:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Feast_for_Crows-Prologue</loc>
+  <lastmod>2018-02-01T20:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_13</loc>
+  <lastmod>2018-02-01T20:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_73</loc>
+  <lastmod>2018-02-01T20:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_World_of_Ice_and_Fire</loc>
+  <lastmod>2018-02-01T20:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_10</loc>
+  <lastmod>2018-02-01T20:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_69</loc>
+  <lastmod>2018-02-01T20:27:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_7</loc>
+  <lastmod>2018-02-01T20:27:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_3</loc>
+  <lastmod>2018-02-01T20:27:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_35</loc>
+  <lastmod>2018-02-01T20:27:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_39</loc>
+  <lastmod>2018-02-01T20:27:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_58</loc>
+  <lastmod>2018-02-01T20:27:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_68</loc>
+  <lastmod>2018-02-01T20:27:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_15</loc>
+  <lastmod>2018-02-01T20:27:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_33</loc>
+  <lastmod>2018-02-01T20:27:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_7</loc>
+  <lastmod>2018-02-01T20:27:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Template:Castles_of_the_Night%27s_Watch</loc>
+  <lastmod>2018-02-01T20:27:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Template:Region_Beyond_the_Wall</loc>
+  <lastmod>2018-02-01T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Cave_of_the_three-eyed_crow</loc>
+  <lastmod>2018-02-01T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Craster%27s_Keep</loc>
+  <lastmod>2018-02-01T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Fist_of_the_First_Men</loc>
+  <lastmod>2018-02-01T20:27:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Hardhome</loc>
+  <lastmod>2018-02-01T20:27:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ruddy_Hall</loc>
+  <lastmod>2018-02-01T20:27:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Whitetree</loc>
+  <lastmod>2018-02-01T20:27:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Antler_River</loc>
+  <lastmod>2018-02-01T20:27:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bay_of_Ice</loc>
+  <lastmod>2018-02-01T20:27:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bridge_of_Skulls</loc>
+  <lastmod>2018-02-01T20:27:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Frozen_Shore</loc>
+  <lastmod>2018-02-01T20:27:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Giant%27s_Stair</loc>
+  <lastmod>2018-02-01T20:27:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Gorne%27s_Way</loc>
+  <lastmod>2018-02-01T20:27:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Land_of_Always_Winter</loc>
+  <lastmod>2018-02-01T20:27:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lorn_Point</loc>
+  <lastmod>2018-02-01T20:27:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Milkwater</loc>
+  <lastmod>2018-02-01T20:27:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Shivering_Sea</loc>
+  <lastmod>2018-02-01T20:27:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Skirling_Pass</loc>
+  <lastmod>2018-02-01T20:27:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Storrold%27s_Point</loc>
+  <lastmod>2018-02-01T20:27:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Sunset_Sea</loc>
+  <lastmod>2018-02-01T20:27:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Thenn_(valley)</loc>
+  <lastmod>2018-02-01T20:27:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Castle_Black</loc>
+  <lastmod>2018-02-01T20:27:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Magic</loc>
+  <lastmod>2018-02-01T20:27:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Night%27s_Watch</loc>
+  <lastmod>2018-02-01T20:27:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Places_beyond_the_Wall</loc>
+  <lastmod>2018-02-01T20:27:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Places_of_the_Night%27s_Watch</loc>
+  <lastmod>2018-02-01T20:27:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Places_in_the_North</loc>
+  <lastmod>2018-02-01T20:27:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Structures</loc>
+  <lastmod>2018-02-01T20:27:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Wonders_Made_by_Man</loc>
+  <lastmod>2018-02-01T20:27:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Talk:Wall</loc>
+  <lastmod>2018-02-01T20:27:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/User:Nittanian</loc>
+  <lastmod>2018-02-01T20:27:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/User:Nezi0</loc>
+  <lastmod>2018-02-01T20:27:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Known_World</loc>
+  <lastmod>2018-02-01T20:27:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Essos</loc>
+  <lastmod>2018-02-01T20:27:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Sothoryos</loc>
+  <lastmod>2018-02-01T20:27:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ulthos</loc>
+  <lastmod>2018-02-01T20:27:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Free_folk</loc>
+  <lastmod>2018-02-01T20:27:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Free_Cities</loc>
+  <lastmod>2018-02-01T20:27:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Across_the_narrow_sea</loc>
+  <lastmod>2018-02-01T20:27:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Summer_Isles</loc>
+  <lastmod>2018-02-01T20:27:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dorne</loc>
+  <lastmod>2018-02-01T20:27:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lands_of_Always_Winter</loc>
+  <lastmod>2018-02-01T20:27:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Narrow_sea</loc>
+  <lastmod>2018-02-01T20:27:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Stepstones</loc>
+  <lastmod>2018-02-01T20:27:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Summer_Sea</loc>
+  <lastmod>2018-02-01T20:27:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/King%27s_Landing</loc>
+  <lastmod>2018-02-01T20:27:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lannisport</loc>
+  <lastmod>2018-02-01T20:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Gulltown</loc>
+  <lastmod>2018-02-01T20:27:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/White_Harbor</loc>
+  <lastmod>2018-02-01T20:27:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Aegon%27s_Conquest</loc>
+  <lastmod>2018-02-01T20:27:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Targaryen</loc>
+  <lastmod>2018-02-01T20:28:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Gift</loc>
+  <lastmod>2018-02-01T20:28:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Neck</loc>
+  <lastmod>2018-02-01T20:28:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Southron</loc>
+  <lastmod>2018-02-01T20:28:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Stark</loc>
+  <lastmod>2018-02-01T20:28:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Kings_in_the_North</loc>
+  <lastmod>2018-02-01T20:28:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wardens_of_the_North</loc>
+  <lastmod>2018-02-01T20:28:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Old_gods</loc>
+  <lastmod>2018-02-01T20:28:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Faith_of_the_Seven</loc>
+  <lastmod>2018-02-01T20:28:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Iron_Islands</loc>
+  <lastmod>2018-02-01T20:28:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ironman%27s_Bay</loc>
+  <lastmod>2018-02-01T20:28:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Blacktyde</loc>
+  <lastmod>2018-02-01T20:28:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Great_Wyk</loc>
+  <lastmod>2018-02-01T20:28:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Harlaw</loc>
+  <lastmod>2018-02-01T20:28:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lonely_Light</loc>
+  <lastmod>2018-02-01T20:28:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Old_Wyk</loc>
+  <lastmod>2018-02-01T20:28:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Orkmont</loc>
+  <lastmod>2018-02-01T20:28:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Pyke_(island)</loc>
+  <lastmod>2018-02-01T20:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Saltcliffe</loc>
+  <lastmod>2018-02-01T20:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ironborn</loc>
+  <lastmod>2018-02-01T20:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Greyjoy</loc>
+  <lastmod>2018-02-01T20:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Pyke</loc>
+  <lastmod>2018-02-01T20:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Hoare</loc>
+  <lastmod>2018-02-01T20:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Harrenhal</loc>
+  <lastmod>2018-02-01T20:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Aegon_I_Targaryen</loc>
+  <lastmod>2018-02-01T20:28:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Drowned_God</loc>
+  <lastmod>2018-02-01T20:28:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Riverlands</loc>
+  <lastmod>2018-02-01T20:28:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Red_Fork</loc>
+  <lastmod>2018-02-01T20:28:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Green_Fork</loc>
+  <lastmod>2018-02-01T20:28:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Blue_Fork</loc>
+  <lastmod>2018-02-01T20:28:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Trident</loc>
+  <lastmod>2018-02-01T20:28:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Gods_Eye</loc>
+  <lastmod>2018-02-01T20:28:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Blackwater_Rush</loc>
+  <lastmod>2018-02-01T20:28:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Tully</loc>
+  <lastmod>2018-02-01T20:28:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Riverrun</loc>
+  <lastmod>2018-02-01T20:28:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Kings_of_the_Isles_and_the_Rivers</loc>
+  <lastmod>2018-02-01T20:28:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/River_kings</loc>
+  <lastmod>2018-02-01T20:28:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Maidenpool</loc>
+  <lastmod>2018-02-01T20:28:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Fairmarket</loc>
+  <lastmod>2018-02-01T20:28:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Vale_of_Arryn</loc>
+  <lastmod>2018-02-01T20:28:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Mountains_of_the_Moon</loc>
+  <lastmod>2018-02-01T20:28:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Vale_proper</loc>
+  <lastmod>2018-02-01T20:28:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Fingers</loc>
+  <lastmod>2018-02-01T20:28:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bite</loc>
+  <lastmod>2018-02-01T20:28:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Arryn</loc>
+  <lastmod>2018-02-01T20:28:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Kings_of_Mountain_and_Vale</loc>
+  <lastmod>2018-02-01T20:28:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Eyrie</loc>
+  <lastmod>2018-02-01T20:28:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Vale_mountain_clans</loc>
+  <lastmod>2018-02-01T20:28:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Three_Sisters</loc>
+  <lastmod>2018-02-01T20:28:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Westerlands</loc>
+  <lastmod>2018-02-01T20:28:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Lannister</loc>
+  <lastmod>2018-02-01T20:28:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Casterly_Rock</loc>
+  <lastmod>2018-02-01T20:28:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/King_of_the_Rock</loc>
+  <lastmod>2018-02-01T20:28:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Crownlands</loc>
+  <lastmod>2018-02-01T20:28:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lord_of_the_Seven_Kingdoms</loc>
+  <lastmod>2018-02-01T20:28:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Duskendale</loc>
+  <lastmod>2018-02-01T20:28:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Rosby</loc>
+  <lastmod>2018-02-01T20:28:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Crackclaw_Point</loc>
+  <lastmod>2018-02-01T20:28:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Blackwater_Bay</loc>
+  <lastmod>2018-02-01T20:28:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dragonstone_(island)</loc>
+  <lastmod>2018-02-01T20:28:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Driftmark</loc>
+  <lastmod>2018-02-01T20:28:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Claw_Isle</loc>
+  <lastmod>2018-02-01T20:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Reach</loc>
+  <lastmod>2018-02-01T20:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Tyrell</loc>
+  <lastmod>2018-02-01T20:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Highgarden</loc>
+  <lastmod>2018-02-01T20:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Gardener</loc>
+  <lastmod>2018-02-01T20:28:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/King_of_the_Reach</loc>
+  <lastmod>2018-02-01T20:28:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Mern_IX_Gardener</loc>
+  <lastmod>2018-02-01T20:28:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Field_of_Fire</loc>
+  <lastmod>2018-02-01T20:28:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lord_Paramount_of_the_Mander</loc>
+  <lastmod>2018-02-01T20:28:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Maesters</loc>
+  <lastmod>2018-02-01T20:28:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Citadel</loc>
+  <lastmod>2018-02-01T20:28:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Starry_Sept</loc>
+  <lastmod>2018-02-01T20:28:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Stormlands</loc>
+  <lastmod>2018-02-01T20:28:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Sea_of_Dorne</loc>
+  <lastmod>2018-02-01T20:28:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Shipbreaker_Bay</loc>
+  <lastmod>2018-02-01T20:28:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Storm_King</loc>
+  <lastmod>2018-02-01T20:28:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Baratheon</loc>
+  <lastmod>2018-02-01T20:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Orys_Baratheon</loc>
+  <lastmod>2018-02-01T20:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dornish_Marches</loc>
+  <lastmod>2018-02-01T20:28:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Marcher_lords</loc>
+  <lastmod>2018-02-01T20:28:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Red_Mountains</loc>
+  <lastmod>2018-02-01T20:28:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dornishmen</loc>
+  <lastmod>2018-02-01T20:28:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Rhoynar</loc>
+  <lastmod>2018-02-01T20:28:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ten_thousand_ships</loc>
+  <lastmod>2018-02-01T20:28:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/First_Dornish_War</loc>
+  <lastmod>2018-02-01T20:28:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Martell</loc>
+  <lastmod>2018-02-01T20:28:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Prince_of_Dorne</loc>
+  <lastmod>2018-02-01T20:28:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lord</loc>
+  <lastmod>2018-02-01T20:28:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/White_raven</loc>
+  <lastmod>2018-02-01T20:28:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Baelon_Targaryen_(son_of_Jaehaerys_I)</loc>
+  <lastmod>2018-02-01T20:28:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Gael_Targaryen</loc>
+  <lastmod>2018-02-01T20:28:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Years_after_Aegon%27s_Conquest</loc>
+  <lastmod>2018-02-01T20:28:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Laena_Velaryon</loc>
+  <lastmod>2018-02-01T20:28:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Laenor_Velaryon</loc>
+  <lastmod>2018-02-01T20:28:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dance_of_the_Dragons</loc>
+  <lastmod>2018-02-01T20:28:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Great_Spring_Sickness</loc>
+  <lastmod>2018-02-01T20:28:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Maekar_I_Targaryen</loc>
+  <lastmod>2018-02-01T20:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Violet_eyes</loc>
+  <lastmod>2018-02-01T20:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ghiscari</loc>
+  <lastmod>2018-02-01T20:28:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Andals</loc>
+  <lastmod>2018-02-01T20:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Mammoth</loc>
+  <lastmod>2018-02-01T20:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Old_Tongue</loc>
+  <lastmod>2018-02-01T20:28:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Obsidian</loc>
+  <lastmod>2018-02-01T20:28:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Weirwood</loc>
+  <lastmod>2018-02-01T20:28:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wights</loc>
+  <lastmod>2018-02-01T20:28:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dragonglass</loc>
+  <lastmod>2018-02-01T20:28:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bestiary</loc>
+  <lastmod>2018-02-01T20:28:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Aurochs</loc>
+  <lastmod>2018-02-01T20:28:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Direwolf</loc>
+  <lastmod>2018-02-01T20:28:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lizard-lion</loc>
+  <lastmod>2018-02-01T20:28:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Kraken</loc>
+  <lastmod>2018-02-01T20:28:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Manticore</loc>
+  <lastmod>2018-02-01T20:28:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Raven</loc>
+  <lastmod>2018-02-01T20:28:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Shadowcat</loc>
+  <lastmod>2018-02-01T20:28:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Zorse</loc>
+  <lastmod>2018-02-01T20:28:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dragon</loc>
+  <lastmod>2018-02-01T20:28:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Unicorns</loc>
+  <lastmod>2018-02-01T20:28:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_4</loc>
+  <lastmod>2018-02-01T20:28:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_67</loc>
+  <lastmod>2018-02-01T20:28:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_3</loc>
+  <lastmod>2018-02-01T20:28:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Prologue</loc>
+  <lastmod>2018-02-01T20:28:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Epilogue_(A_Dance_with_Dragons)</loc>
+  <lastmod>2018-02-01T20:28:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_18</loc>
+  <lastmod>2018-02-01T20:28:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Template:Regions</loc>
+  <lastmod>2018-02-01T20:28:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Template_talk:Regions</loc>
+  <lastmod>2018-02-01T20:28:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Andalos</loc>
+  <lastmod>2018-02-01T20:28:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bone_Mountains</loc>
+  <lastmod>2018-02-01T20:28:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dothraki_sea</loc>
+  <lastmod>2018-02-01T20:28:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ghiscar</loc>
+  <lastmod>2018-02-01T20:28:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Grey_Waste</loc>
+  <lastmod>2018-02-01T20:28:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Kingdom_of_the_Ifequevron</loc>
+  <lastmod>2018-02-01T20:28:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Realm_of_the_Jhogwin</loc>
+  <lastmod>2018-02-01T20:28:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Plains_of_the_Jogos_Nhai</loc>
+  <lastmod>2018-02-01T20:28:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lhazar</loc>
+  <lastmod>2018-02-01T20:28:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Mountains_of_the_Morn</loc>
+  <lastmod>2018-02-01T20:28:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Mossovy</loc>
+  <lastmod>2018-02-01T20:28:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Kingdom_of_Omber</loc>
+  <lastmod>2018-02-01T20:28:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Red_waste</loc>
+  <lastmod>2018-02-01T20:28:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Kingdom_of_Sarnor</loc>
+  <lastmod>2018-02-01T20:28:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Shadow_Lands</loc>
+  <lastmod>2018-02-01T20:28:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Land_of_the_Shrykes</loc>
+  <lastmod>2018-02-01T20:28:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Slaver%27s_Bay</loc>
+  <lastmod>2018-02-01T20:28:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Valyrian_peninsula</loc>
+  <lastmod>2018-02-01T20:28:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Yi_Ti</loc>
+  <lastmod>2018-02-01T20:28:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Basilisk_Point</loc>
+  <lastmod>2018-02-01T20:28:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Basilisk_Isles</loc>
+  <lastmod>2018-02-01T20:28:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Green_Hell</loc>
+  <lastmod>2018-02-01T20:28:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Naath</loc>
+  <lastmod>2018-02-01T20:28:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wyvern_Point</loc>
+  <lastmod>2018-02-01T20:28:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Great_Moraq</loc>
+  <lastmod>2018-02-01T20:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Jade_Sea</loc>
+  <lastmod>2018-02-01T20:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ibben</loc>
+  <lastmod>2018-02-01T20:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Westeros</loc>
+  <lastmod>2018-02-01T20:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Continents</loc>
+  <lastmod>2018-02-01T20:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Talk:Westeros</loc>
+  <lastmod>2018-02-01T20:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Iron_Throne</loc>
+  <lastmod>2018-02-01T20:28:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wars_of_Conquest</loc>
+  <lastmod>2018-02-01T20:28:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Aegon%27s_Landing</loc>
+  <lastmod>2018-02-01T20:28:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/File:House_Stark.svg</loc>
+  <lastmod>2018-02-01T20:28:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Torrhen_Stark</loc>
+  <lastmod>2018-02-01T20:28:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/File:House_Arryn.svg</loc>
+  <lastmod>2018-02-01T20:29:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ronnel_Arryn_(king)</loc>
+  <lastmod>2018-02-01T20:29:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/King_of_Mountain_and_Vale</loc>
+  <lastmod>2018-02-01T20:29:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Harren_Hoare</loc>
+  <lastmod>2018-02-01T20:29:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/King_of_the_Isles_and_the_Rivers</loc>
+  <lastmod>2018-02-01T20:29:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/File:House_Lannister.svg</loc>
+  <lastmod>2018-02-01T20:29:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Loren_I_Lannister</loc>
+  <lastmod>2018-02-01T20:29:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/File:House_Gardener.svg</loc>
+  <lastmod>2018-02-01T20:29:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/File:House_Baratheon.svg</loc>
+  <lastmod>2018-02-01T20:29:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Argilac_Durrandon</loc>
+  <lastmod>2018-02-01T20:29:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/File:House_Martell.svg</loc>
+  <lastmod>2018-02-01T20:29:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Meria_Martell</loc>
+  <lastmod>2018-02-01T20:29:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Princess_of_Dorne</loc>
+  <lastmod>2018-02-01T20:29:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Warden</loc>
+  <lastmod>2018-02-01T20:29:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Law_and_justice</loc>
+  <lastmod>2018-02-01T20:29:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Great_Houses</loc>
+  <lastmod>2018-02-01T20:29:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/File:House_Targaryen.svg</loc>
+  <lastmod>2018-02-01T20:29:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/File:House_Tully.svg</loc>
+  <lastmod>2018-02-01T20:29:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lord_Paramount_of_the_Trident</loc>
+  <lastmod>2018-02-01T20:29:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/File:House_Tyrell.svg</loc>
+  <lastmod>2018-02-01T20:29:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Lord_Paramount_of_the_Stormlands</loc>
+  <lastmod>2018-02-01T20:29:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Prince_of_Dragonstone</loc>
+  <lastmod>2018-02-01T20:29:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Arbor</loc>
+  <lastmod>2018-02-01T20:29:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bear_Island</loc>
+  <lastmod>2018-02-01T20:29:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Estermont</loc>
+  <lastmod>2018-02-01T20:29:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Shield_Islands</loc>
+  <lastmod>2018-02-01T20:29:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Skagos</loc>
+  <lastmod>2018-02-01T20:29:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Tarth</loc>
+  <lastmod>2018-02-01T20:29:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/King_of_the_Andals,_the_Rhoynar,_and_the_First_Men</loc>
+  <lastmod>2018-02-01T20:29:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dawn_Age</loc>
+  <lastmod>2018-02-01T20:29:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Age_of_Heroes</loc>
+  <lastmod>2018-02-01T20:29:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/House_Manderly</loc>
+  <lastmod>2018-02-01T20:29:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Customs</loc>
+  <lastmod>2018-02-01T20:29:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Northmen</loc>
+  <lastmod>2018-02-01T20:29:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Rhoynar_migration</loc>
+  <lastmod>2018-02-01T20:29:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ironmen</loc>
+  <lastmod>2018-02-01T20:29:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Currency</loc>
+  <lastmod>2018-02-01T20:29:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Master_of_coin</loc>
+  <lastmod>2018-02-01T20:29:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Smallfolk</loc>
+  <lastmod>2018-02-01T20:29:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ships</loc>
+  <lastmod>2018-02-01T20:29:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Religion</loc>
+  <lastmod>2018-02-01T20:29:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Mother_(the_Seven)</loc>
+  <lastmod>2018-02-01T20:29:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Father_(the_Seven)</loc>
+  <lastmod>2018-02-01T20:29:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Warrior_(the_Seven)</loc>
+  <lastmod>2018-02-01T20:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Smith_(the_Seven)</loc>
+  <lastmod>2018-02-01T20:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Maiden_(the_Seven)</loc>
+  <lastmod>2018-02-01T20:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Crone_(the_Seven)</loc>
+  <lastmod>2018-02-01T20:29:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Stranger_(the_Seven)</loc>
+  <lastmod>2018-02-01T20:29:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/R%27hllor</loc>
+  <lastmod>2018-02-01T20:29:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Great_Other</loc>
+  <lastmod>2018-02-01T20:29:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Robert%27s_Rebellion</loc>
+  <lastmod>2018-02-01T20:29:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Viserys_Targaryen</loc>
+  <lastmod>2018-02-01T20:29:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Daenerys_Targaryen</loc>
+  <lastmod>2018-02-01T20:29:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Painted_Table</loc>
+  <lastmod>2018-02-01T20:29:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Davos_Seaworth</loc>
+  <lastmod>2018-02-01T20:29:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_38</loc>
+  <lastmod>2018-02-01T20:29:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_45</loc>
+  <lastmod>2018-02-01T20:29:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Song_of_Ice_and_Fire_Roleplaying</loc>
+  <lastmod>2018-02-01T20:29:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Song_of_Ice_and_Fire_Campaign_Guide</loc>
+  <lastmod>2018-02-01T20:29:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_36</loc>
+  <lastmod>2018-02-01T20:29:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Nations</loc>
+  <lastmod>2018-02-01T20:29:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Talk:Seven_Kingdoms</loc>
+  <lastmod>2018-02-01T20:29:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/User:The_Dragon_Demands</loc>
+  <lastmod>2018-02-01T20:29:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/User:Lord_Evermore</loc>
+  <lastmod>2018-02-01T20:29:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Beyond_the_Wall_(book)</loc>
+  <lastmod>2018-02-01T20:29:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ranger</loc>
+  <lastmod>2018-02-01T20:29:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Eagle</loc>
+  <lastmod>2018-02-01T20:29:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Snow_bear</loc>
+  <lastmod>2018-02-01T20:29:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Coldsnaps</loc>
+  <lastmod>2018-02-01T20:29:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Frostfires</loc>
+  <lastmod>2018-02-01T20:29:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Piper%27s_grass</loc>
+  <lastmod>2018-02-01T20:29:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ironwood</loc>
+  <lastmod>2018-02-01T20:29:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Sentinel</loc>
+  <lastmod>2018-02-01T20:29:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Soldier_pine</loc>
+  <lastmod>2018-02-01T20:29:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Rangers</loc>
+  <lastmod>2018-02-01T20:29:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Thenns</loc>
+  <lastmod>2018-02-01T20:29:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Cave_dwellers</loc>
+  <lastmod>2018-02-01T20:29:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Hornfoot</loc>
+  <lastmod>2018-02-01T20:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Ice-river_clans</loc>
+  <lastmod>2018-02-01T20:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Nightrunners</loc>
+  <lastmod>2018-02-01T20:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Men_of_the_Frozen_Shore</loc>
+  <lastmod>2018-02-01T20:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Redwyn</loc>
+  <lastmod>2018-02-01T20:29:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Dorren_Stark</loc>
+  <lastmod>2018-02-01T20:29:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Theon_Stark</loc>
+  <lastmod>2018-02-01T20:29:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Brynden_Rivers</loc>
+  <lastmod>2018-02-01T20:29:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/History_of_the_Kings-Beyond-the-Wall</loc>
+  <lastmod>2018-02-01T20:29:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Herryk</loc>
+  <lastmod>2018-02-01T20:29:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Hardhome:_An_Account_of_Three_Years_Spent_Beyond-the-Wall_among_Savages,_Raiders,_and_Woods-witches</loc>
+  <lastmod>2018-02-01T20:29:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wyllis</loc>
+  <lastmod>2018-02-01T20:29:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Waymar_Royce</loc>
+  <lastmod>2018-02-01T20:29:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Wight</loc>
+  <lastmod>2018-02-01T20:29:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Great_ranging</loc>
+  <lastmod>2018-02-01T20:29:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Conflict_beyond_the_Wall</loc>
+  <lastmod>2018-02-01T20:29:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Rattleshirt</loc>
+  <lastmod>2018-02-01T20:29:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Fight_at_the_Fist</loc>
+  <lastmod>2018-02-01T20:29:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Mutiny_at_Craster%27s_Keep</loc>
+  <lastmod>2018-02-01T20:29:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Gilly</loc>
+  <lastmod>2018-02-01T20:29:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/King-Beyond-the-Wall</loc>
+  <lastmod>2018-02-01T20:29:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Val</loc>
+  <lastmod>2018-02-01T20:29:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Tormund</loc>
+  <lastmod>2018-02-01T20:29:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Harmune</loc>
+  <lastmod>2018-02-01T20:29:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Coldhands</loc>
+  <lastmod>2018-02-01T20:29:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Bran_Stark</loc>
+  <lastmod>2018-02-01T20:29:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Hodor</loc>
+  <lastmod>2018-02-01T20:29:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Meera_Reed</loc>
+  <lastmod>2018-02-01T20:29:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Jojen_Reed</loc>
+  <lastmod>2018-02-01T20:29:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Osha</loc>
+  <lastmod>2018-02-01T20:29:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/The_Lands_of_Ice_and_Fire</loc>
+  <lastmod>2018-02-01T20:29:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_13</loc>
+  <lastmod>2018-02-01T20:29:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_51</loc>
+  <lastmod>2018-02-01T20:29:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Prologue</loc>
+  <lastmod>2018-02-01T20:29:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_23</loc>
+  <lastmod>2018-02-01T20:29:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_53</loc>
+  <lastmod>2018-02-01T20:29:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons-Chapter_13</loc>
+  <lastmod>2018-02-01T20:29:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_6</loc>
+  <lastmod>2018-02-01T20:29:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Prologue</loc>
+  <lastmod>2018-02-01T20:29:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Prologue</loc>
+  <lastmod>2018-02-01T20:29:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_75</loc>
+  <lastmod>2018-02-01T20:29:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_66</loc>
+  <lastmod>2018-02-01T20:29:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_24</loc>
+  <lastmod>2018-02-01T20:29:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Category:Beyond_the_Wall</loc>
+  <lastmod>2018-02-01T20:29:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Brandon_Stark_(disambiguation)</loc>
+  <lastmod>2018-02-01T20:29:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Brandon_of_the_Bloody_Blade</loc>
+  <lastmod>2018-02-01T20:29:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Garth_Greenhand</loc>
+  <lastmod>2018-02-01T20:29:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Childer</loc>
+  <lastmod>2018-02-01T20:29:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Winter%27s_Kings,_or_the_Legends_and_Lineages_of_the_Starks_of_Winterfell</loc>
+  <lastmod>2018-02-01T20:29:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Durran_Godsgrief</loc>
+  <lastmod>2018-02-01T20:29:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Uthor_of_the_High_Tower</loc>
+  <lastmod>2018-02-01T20:29:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://awoiaf.westeros.org/index.php/Brandon_Stark_(son_of_Bran_the_Builder)</loc>
+  <lastmod>2018-02-01T20:29:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
