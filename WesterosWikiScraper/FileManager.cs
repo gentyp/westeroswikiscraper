@@ -49,6 +49,8 @@ namespace SampleScraperClient
                 var filename = pToWrite.First();
                 var path = "C:\\Users\\Pierre\\Source\\Repos\\westeroswikiscraper\\WesterosWikiScraper\\database\\" + filename + ".txt";
                 pToWrite.RemoveAt(0);
+                if (File.Exists(path))
+                    File.Delete(path);
 
                 using (var w = File.AppendText(path))
                 {
@@ -74,23 +76,46 @@ namespace SampleScraperClient
 
         }
 
-        public static void WriteInNewFile(List<List<string>> pToWrite)
+        public static void WriteInNewFile(Content pToWrite)
         {
             try
             {
 
-                var filename = pToWrite.First().First();
-                var category = ChoseCategory(pToWrite.Last());
-                if (!string.IsNullOrEmpty(category))
-                    category += "\\";
-                var path = "C:\\Users\\Pierre\\Source\\Repos\\westeroswikiscraper\\WesterosWikiScraper\\database\\" + category + filename + ".txt";
-                pToWrite.First().RemoveAt(0);
+                var filename = pToWrite.Text.First();
+                var path = "C:\\Users\\Pierre\\Source\\Repos\\westeroswikiscraper\\WesterosWikiScraper\\database\\" + filename + ".txt";
+                pToWrite.Text.RemoveAt(0);
+                if (File.Exists(path))
+                    File.Delete(path);
 
                 using (var w = File.AppendText(path))
                 {
                     var csv = new StringBuilder();
+
+                    csv.Append("Categories: ");
+                    foreach (var cat in pToWrite.Categories)
+                    {
+                        csv.Append(cat);
+                        csv.Append(", ");
+                    }
+
+                    var index = csv.ToString().LastIndexOf(",");
+
+                    csv.Remove(index, 1);
+
+                    csv.Append(Environment.NewLine);
+
+                    foreach (var item in pToWrite.StructuredContent)
+                    {
+                        
+                        foreach (var line in item.Value)
+                        {
+                            csv.Append(Environment.NewLine);
+                            csv.Append(item.Key + ":" + line);
+                        }
+                    }
+                    csv.Append(Environment.NewLine + Environment.NewLine + "section: Presentation" + Environment.NewLine);
                     int lines = 0;
-                    foreach (var line in pToWrite.First())
+                    foreach (var line in pToWrite.Text)
                     {
                         csv.Append(line);
                         lines++;
@@ -122,21 +147,8 @@ namespace SampleScraperClient
                 Console.WriteLine("Found Uri " + elemList[i].InnerText);
             }
             Console.WriteLine("Fond total of " + i + " Uris");
-            Thread.Sleep(5000);
+            //Thread.Sleep(5000);
             return uriList;
-        }
-
-        private static string ChoseCategory(List<string> pCategories)
-        {
-            if (pCategories.Count == 0)
-                return string.Empty;
-            if (pCategories.Contains("Event"))
-            {
-                Console.WriteLine("Found a match for event");
-                return "event";
-            }
-            else
-                return string.Empty;
         }
     }
 }

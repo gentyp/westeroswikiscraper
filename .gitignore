@@ -5,3 +5,6 @@
 /.vs/WesterosWikiScraper/v15/Server/sqlite3
 /WesterosWikiScraper/.vs/WesterosWikiScraper/v15/Server/sqlite3
 /WesterosWikiScraper/database.csv
+/packages
+/.vs/WesterosWikiScraper/v15
+/WesterosWikiScraper/database
