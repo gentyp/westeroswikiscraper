@@ -164,7 +164,7 @@ namespace SampleScraperClient
             var striped = new List<string>() ;
             foreach(string str in text)
             {
-                striped.Add(Regex.Replace(str, @" ?\[.*?\]", string.Empty));
+                striped.Add(Strip(str));
             }
 
             return striped.ToArray();
