@@ -150,5 +150,21 @@ namespace SampleScraperClient
             //Thread.Sleep(5000);
             return uriList;
         }
+
+        public static void WriteUriListInXmlFile(List<string> pUris)
+        {
+            XmlDocument xmlDoc = new XmlDocument();
+            XmlNode root = xmlDoc.CreateElement("characters");
+            xmlDoc.AppendChild(root);
+
+            foreach(var uri in pUris)
+            {
+                XmlNode character = xmlDoc.CreateElement("loc");
+                character.InnerText = uri;
+                root.AppendChild(character);
+            }
+
+            xmlDoc.Save("C:\\Users\\Pierre\\Source\\Repos\\westeroswikiscraper\\WesterosWikiScraper\\characters.xml");
+        }
     }
 }

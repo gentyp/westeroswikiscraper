@@ -10,7 +10,9 @@ namespace SampleScraperClient
     {
         static void Main(string[] args)
         {
-            Scraper.ScrapMultipleUri(FileManager.StoreUriListFromXml("C:\\Users\\Pierre\\Source\\Repos\\westeroswikiscraper\\WesterosWikiScraper\\sitemap.xml"));
+            //Crawls a URL that gives a list of characters, mapping the "href" attributes in the page and putting the links into xml
+            //FileManager.WriteUriListInXmlFile(CrawlerSortOf.CrawlKinda("http://awoiaf.westeros.org/index.php/List_of_characters"));
+            Scraper.ScrapMultipleUri(FileManager.StoreUriListFromXml("C:\\Users\\Pierre\\Source\\Repos\\westeroswikiscraper\\WesterosWikiScraper\\characters.xml"));
         }
     }
 }
